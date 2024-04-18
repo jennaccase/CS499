@@ -4,7 +4,19 @@
 
 Hello! My name is Jenna Case and I started attending Southern New Hampshire Univeristy in September 2022. I chose to get a Bachelor's in Computer Science to work alongside my Bachelor's in Applied Engineering to advance my career in manufacturing analysis. This github page is designed to showcase the skills that I learned throughout my time at SNHU into an ePortfolio.
 
-## Education Review
+## Professional Self Assessment
+
+As a manufacturing engineer at a sawmill, I have always been driven by a passion for problem-solving and optimizing processes. Recently, I embarked on a transformative journey that has significantly shaped my professional trajectory. Engaging in a project involving extensive data analysis sparked a newfound interest in the power of data-driven decision-making and inspired me to pursue further education in computer science with a concentration in data analysis at Southern New Hampshire University.
+
+Transitioning into this program from a non-technical background, I embraced the challenge with enthusiasm and determination. Despite starting with no prior experience in coding, I have rapidly acquired a diverse skill set encompassing various programming languages and analytical techniques. Through rigorous coursework and hands-on projects, I have developed proficiency in Python, R, SQL, and other relevant tools essential for data analysis.
+
+Moreover, my journey at Southern New Hampshire University has not solely been about mastering technical skills; it has also been a journey of personal growth and development. I have honed my ability to collaborate effectively within diverse teams, recognizing the importance of clear communication and shared goals in achieving successful outcomes. Embracing a collaborative environment has not only enhanced my own learning but has also enabled me to contribute meaningfully to group projects, leveraging collective expertise to tackle complex challenges.
+
+Reflecting on my progress, I am proud of the strides I have made and the knowledge I have gained throughout this educational endeavor. The experience has equipped me with a solid foundation in computer science and data analysis, empowering me to apply these skills in my current role as a manufacturing engineer. I am excited to leverage my newfound expertise to drive innovation, optimize processes, and make data-informed decisions that drive tangible business outcomes.
+
+Moving forward, I am committed to continuous learning and growth, recognizing that the field of technology is dynamic and ever-evolving. I am eager to explore new opportunities to apply my skills, contribute to meaningful projects, and play a pivotal role in shaping the future of data-driven manufacturing.
+
+In summary, my journey from manufacturing engineer to aspiring data analyst has been marked by perseverance, adaptability, and a relentless pursuit of knowledge. I am confident that my diverse background and newfound expertise position me well to thrive in the fast-paced and increasingly data-driven landscape of modern industry.
 
 ## Artifacts
 
