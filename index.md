@@ -20,8 +20,8 @@ In summary, my journey from manufacturing engineer to aspiring data analyst has 
 
 ## Artifacts
 
-[Enhancement One](https://github.com/jennaccase/EnhancementOne)
-[Enhancement Two](https://github.com/jennaccase/EnhancementTwo)
+[Enhancement One](https://github.com/jennaccase/EnhancementOne) |
+[Enhancement Two](https://github.com/jennaccase/EnhancementTwo) |
 [Enhancement Three](https://github.com/jennaccase/EnhancementThree)
 
 ## Code Review
